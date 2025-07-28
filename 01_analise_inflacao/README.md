@@ -4,7 +4,7 @@ Este projeto tem como objetivo analisar a evolução da inflação anual no Bras
 
 Os dados utilizado foram coletados do Sitema de Séries Temporais do Banco do Brasil, utilizando o pyhton.
 
-veja a análise completa aqui: [01_analise_inflacao.ipynb](https://nbviewer.org/github/MarcianoFerreira/analises-macroeconomicas/01_analise_inflacao.ipynb)
+veja a análise completa aqui: [01_analise_inflacao.ipynb](https://nbviewer.org/github/MarcianoFerreira/analises-macroeconomicas/blob/main/01_analise_inflacao.ipynb)
 
 ## 🔍 Principais Resultados
 1. A trajetória da inflação no Brasil, desde a década de 1980, revela dois momentos bastante distintos, o que pode ser visto no gráfico baixo:

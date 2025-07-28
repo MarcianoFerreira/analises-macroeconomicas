@@ -15,7 +15,7 @@ veja a análise completa aqui: [01_analise_inflacao.ipynb](01_analise_inflacao.i
 
 ![Inflação mensal acumualada desde 1994](imagens/Grafico_04.png)
 
-3. R$1,00 em 2000 teria um poder de compra equivalente a R$4,60 em 2025.  A taxa média de crescimento anual - composto - da inflação nesse período foi de aproximadamente 6,29%.
+3. R\$1,00 em 2000 teria um poder de compra equivalente a R\$4,60 em 2025.  A taxa média de crescimento anual - composto - da inflação nesse período foi de aproximadamente 6,29%.
 
 4. Embora a inflação brasileira não tenha retornado aos níveis críticos observados na década de 1990, ela permaneceu presente de forma consistente ao longo dos anos.
 
